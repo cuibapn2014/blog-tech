@@ -1,4 +1,4 @@
-theme = "repo"
+theme = "/"
 languageCode = "en-us"
 baseurl = "http://example.com/"
 title = "Blog Technology"

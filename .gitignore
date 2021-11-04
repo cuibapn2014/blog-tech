@@ -1,4 +1,4 @@
 /node_modules/
-/exampleSite/public/
-/exampleSite/resources/
+/public/
+/resources/
 /exampleSite/hugo_stats.json
